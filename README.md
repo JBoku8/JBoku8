@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
 
-[![Contact me on Codementor](https://www.codementor.io/m-badges/janobokuchava/im-a-cm-b.svg)](https://www.codementor.io/@janobokuchava?refer=badge)
+<-- [![Contact me on Codementor](https://www.codementor.io/m-badges/janobokuchava/im-a-cm-b.svg)](https://www.codementor.io/@janobokuchava?refer=badge) -->
