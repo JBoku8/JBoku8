@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 
 <!-- [![Contact me on Codementor](https://www.codementor.io/m-badges/janobokuchava/im-a-cm-b.svg)](https://www.codementor.io/@janobokuchava?refer=badge) -->
 ![Jano's GitHub stats](https://github-readme-stats.vercel.app/api?username=jboku8&hide=contribs,prs&show_icons=true&theme=nightowl)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jboku8&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jboku8&theme=nightowl)]
