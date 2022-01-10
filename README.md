@@ -6,10 +6,13 @@
   - Blockchain, Solidity
   - AWS
 - 👯 I’m looking to collaborate on ...
+- 🐶 Pet Projects
+  - ...
 <!-- - 🤔 I’m looking for help with ... -->
 <!--- - 💬 Ask me about ... -->
 - 📫 How to reach me: https://linktr.ee/janobokuchava
 <!-- - 😄 Pronouns: ... -->
+
 <!-- - ⚡ Fun fact: ... -->
 
 ![](https://www.codewars.com/users/JBoku8/badges/large)
