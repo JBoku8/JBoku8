@@ -61,9 +61,13 @@ Experienced Full-stack JavaScript developer with 8+ years of expertise in React,
 English (Fluent), Russian (Proficient), Georgian (Native)
 
 
+
+## CURRENTL 
+
 - 🌱 I’m currently learning ...
   - Blockchain, Solidity
   - AWS
+  - AI
 - 👯 I’m looking to collaborate on ...
 - 🐶 Pet Projects
   - ...
