@@ -57,7 +57,7 @@ I've led full-scale SaaS platform rewrites, designed federated GraphQL systems, 
 
 | Layer | Technologies |
 |---|---|
-| **Frontend** | React, Angular 20, Next.js, TypeScript, NgRx, TanStack Query, Tailwind CSS, Vite, MobX, Redux |
+| **Frontend** | React, Angular, Next.js, TypeScript, NgRx, TanStack Query, Tailwind CSS, Vite, MobX, Redux |
 | **Backend** | NestJS, Node.js, GraphQL (Apollo Federation v2), gRPC, REST, PostgreSQL, MongoDB, Redis, OpenSearch, Sequelize, Prisma, DynamoDB |
 | **Cloud / Infra** | AWS EKS, Lambda, SQS, SNS, S3, API Gateway, Serverless Framework, Azure AD, Cosmos DB, Kubernetes, Helm, ArgoCD, Docker, Karpenter, KEDA |
 | **Observability** | Prometheus, CloudWatch, New Relic, SonarQube |
@@ -88,9 +88,11 @@ Taught and mentored developers across universities and companies in Georgia — 
 
 ## Currently Exploring
 
-- AI/ML engineering — LLM integrations, agents, and applied AI in production
-- Advanced Kubernetes patterns and platform engineering
-- Web3 / Solidity (ongoing interest)
+**AI Engineering**
+Digging deep into applied AI — LLM integrations, agentic development, multi-agent orchestration, evaluation harnesses, and building reliable AI-powered systems in production.
+
+**Platform & Infrastructure**
+Advanced Kubernetes patterns, platform engineering, and developer tooling at scale.
 
 ---
 
